@@ -1,0 +1,13 @@
+C:\Users\thiago.f.santos\Desktop\Anima\Aulas\Digital Innovation One\Dotnet\3 - Projetos\DioBank\bin\Debug\netcoreapp3.1\DioBank.exe
+C:\Users\thiago.f.santos\Desktop\Anima\Aulas\Digital Innovation One\Dotnet\3 - Projetos\DioBank\bin\Debug\netcoreapp3.1\DioBank.deps.json
+C:\Users\thiago.f.santos\Desktop\Anima\Aulas\Digital Innovation One\Dotnet\3 - Projetos\DioBank\bin\Debug\netcoreapp3.1\DioBank.runtimeconfig.json
+C:\Users\thiago.f.santos\Desktop\Anima\Aulas\Digital Innovation One\Dotnet\3 - Projetos\DioBank\bin\Debug\netcoreapp3.1\DioBank.runtimeconfig.dev.json
+C:\Users\thiago.f.santos\Desktop\Anima\Aulas\Digital Innovation One\Dotnet\3 - Projetos\DioBank\bin\Debug\netcoreapp3.1\DioBank.dll
+C:\Users\thiago.f.santos\Desktop\Anima\Aulas\Digital Innovation One\Dotnet\3 - Projetos\DioBank\bin\Debug\netcoreapp3.1\DioBank.pdb
+C:\Users\thiago.f.santos\Desktop\Anima\Aulas\Digital Innovation One\Dotnet\3 - Projetos\DioBank\obj\Debug\netcoreapp3.1\DioBank.csprojAssemblyReference.cache
+C:\Users\thiago.f.santos\Desktop\Anima\Aulas\Digital Innovation One\Dotnet\3 - Projetos\DioBank\obj\Debug\netcoreapp3.1\DioBank.AssemblyInfoInputs.cache
+C:\Users\thiago.f.santos\Desktop\Anima\Aulas\Digital Innovation One\Dotnet\3 - Projetos\DioBank\obj\Debug\netcoreapp3.1\DioBank.AssemblyInfo.cs
+C:\Users\thiago.f.santos\Desktop\Anima\Aulas\Digital Innovation One\Dotnet\3 - Projetos\DioBank\obj\Debug\netcoreapp3.1\DioBank.csproj.CoreCompileInputs.cache
+C:\Users\thiago.f.santos\Desktop\Anima\Aulas\Digital Innovation One\Dotnet\3 - Projetos\DioBank\obj\Debug\netcoreapp3.1\DioBank.dll
+C:\Users\thiago.f.santos\Desktop\Anima\Aulas\Digital Innovation One\Dotnet\3 - Projetos\DioBank\obj\Debug\netcoreapp3.1\DioBank.pdb
+C:\Users\thiago.f.santos\Desktop\Anima\Aulas\Digital Innovation One\Dotnet\3 - Projetos\DioBank\obj\Debug\netcoreapp3.1\DioBank.genruntimeconfig.cache
